@@ -4,6 +4,7 @@ gem 'rails', '3.0.0.beta3'
 
 # Backend
 # gem 'mysql'
+# gem 'mysql2'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
 # Model
